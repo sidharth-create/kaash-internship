@@ -612,6 +612,13 @@ footer {
     .contact {
         margin-left: 70%;
     }
+    .form-two img{
+        width: 50px;
+        height: 60px;
+    }
+    .form-two p{
+        font-size: 12px;
+    }
 }
 
 @media screen and (min-width: 480px) and (max-width: 720px) {
@@ -681,6 +688,13 @@ footer {
     }
 
     .right ul li {
+        font-size: 15px;
+    }
+    .form-two img{
+        width: 60px;
+        height: 70px;
+    }
+    .form-two p{
         font-size: 15px;
     }
 
