@@ -729,6 +729,10 @@ footer {
         height: 30vh;
         margin-top: 20vh;
     }
+    .footer-sub-heading p {
+        font-size: 15px;
+        letter-spacing: 1px;
+    }
 }
 @media screen and (min-width: 1466px){
     .sus {
