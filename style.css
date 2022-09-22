@@ -600,6 +600,9 @@ footer {
     .project-heading p {
         font-size: 25px;
     }
+    .footer-heading p{
+        font-size: 29px;
+    }
 
     .footer-sub-heading p {
         font-size: 10px;
