@@ -562,6 +562,12 @@ footer {
     .design-desc {
         margin-top: 2vh;
     }
+    .design-cycle p{
+        font-size: 11px;
+    }
+    .light-science p{
+        font-size: 11px;
+    }
 
     .technology {
         display: flex;
